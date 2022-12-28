@@ -10,7 +10,7 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 #### Filtri per categoria
 - [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
-- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere")
+- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
 - [Esercizi con soluzioni confermate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Arisolto)
 - [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
 
