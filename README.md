@@ -4,7 +4,7 @@
 
 Lo scopo di questo repository GitHub, _basato sulla stessa idea ed organizzazione del repository di Metodi Matematici durante l'A.A. 2021-2022_ [[🌐]](https://github.com/sapienzastudentsnetwork/mmi2122), è di condividere e confrontare tra di noi le soluzioni alle slides di esercizi di Sistemi Digitali del prof. Salvatore Pontarelli pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
-_**N.B:** Considereremo come "risolti" gli esercizi con soluzioni confermate in classe dal professore o su GitHub da più di uno studente, per cui se la tua soluzione coincide con quella pubblicata da un altro utente ricodati nelle pagine degli esercizi (issues) di aggiungere un commento del tipo "Soluzione analoga a quella di utente"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
+_**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe dal professore o su GitHub da più di uno studente, per cui se la tua soluzione coincide con quella pubblicata da un altro utente ricodati nelle pagine degli esercizi (issues) di aggiungere un commento del tipo "Soluzione analoga a quella di utente"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
 
 ### Collegamenti rapidi
 
