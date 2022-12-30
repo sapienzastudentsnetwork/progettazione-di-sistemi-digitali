@@ -8,6 +8,12 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ### Collegamenti rapidi
 
+#### Capitoli del libro
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [4](#capitolo-4) | [5](#capitolo-5) |
+
 #### Filtri per stato
 - [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
 - [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
@@ -23,3 +29,25 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ### Attenzione
 
 Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
+
+## Esercizi tratti dal libro
+
+### Capitolo 1
+
+##### Esercizi
+
+### Capitolo 2
+
+##### Esercizi
+
+### Capitolo 3
+
+##### Esercizi
+
+### Capitolo 4
+
+##### Esercizi
+
+### Capitolo 5
+
+##### Esercizi
