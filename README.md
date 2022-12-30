@@ -29,9 +29,9 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ##### Capitoli da cui sono stati tratti
 
-|    |    |    |    |    |
-|----|----|----|----|----|
-| [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [4](#capitolo-4) | [5](#capitolo-5) |
+|    |    |    |    |
+|----|----|----|----|
+| [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [5](#capitolo-5) |
 
 ### Risorse utili
 
@@ -84,10 +84,10 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [3.13](../../issues/71) | [3.20](../../issues/72) | [3.22](../../issues/73) |
 | [3.24](../../issues/74) | [3.26](../../issues/75) | |
 
-### Capitolo 4
-
-#### Esercizi
-
 ### Capitolo 5
 
 #### Esercizi
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [5.29](../../issues/20) | [5.31](../../issues/21) | [5.33](../../issues/22) | [5.35](../../issues/23) | [5.38](../../issues/24) |
