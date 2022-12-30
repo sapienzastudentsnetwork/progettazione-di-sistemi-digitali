@@ -37,7 +37,7 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 - **Classroom del corso** [[🌐]](https://classroom.google.com/c/MTczNjk2NDI1MjI5?cjc=blb53dw) » contiene eventuali annunci del prof. Salvatore Pontarelli inerenti al corso
 
-- **Cartella Drive del corso** [[🌐]](https://drive.google.com/drive/folders/1yrcePCVNrA-kGAHzX5JdqRXziNENfjt4UW_YhLIxZPPUFavHArMU1fnTGKoX1CRnKPKh-xg2?usp=sharing) » contiene il materiale didattico del corso, comprese le presentazioni PowerPoint contenenti i testi degli esercizi presenti in questo repository
+- **Cartella Drive del corso** [[🌐]](https://drive.google.com/drive/folders/1yrcePCVNrA-kGAHzX5JdqRXziNENfjt4UW_YhLIxZPPUFavHArMU1fnTGKoX1CRnKPKh-xg2?usp=sharing) » contiene il materiale didattico (esami svolti, esercitazioni, slides e tutoraggio) del corso, comprese le presentazioni PowerPoint contenenti i testi degli esercizi presenti in questo repository
 
 ### Attenzione
 
