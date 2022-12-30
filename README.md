@@ -49,8 +49,8 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 #### Esercizi
 
-|    |    |    |    |    |
-|----|----|----|----|----|
+|    |    |    |
+|----|----|----|
 | [1.11](../../issues/6) | [1.12](../../issues/7) | [1.14](../../issues/1) |
 | [1.16](../../issues/2) | [1.18](../../issues/3) | [1.21](../../issues/13) |
 | [1.22](../../issues/5) | [1.23](../../issues/14) | [1.29](../../issues/12) |
