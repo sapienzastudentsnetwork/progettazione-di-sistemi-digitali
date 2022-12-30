@@ -76,6 +76,14 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 #### Esercizi
 
+|    |    |    |
+|----|----|----|
+| [3.1](../../issues/61) | [3.2](../../issues/62) | [3.3](../../issues/63) |
+| [3.4](../../issues/64) | [3.5](../../issues/68) | [3.6](../../issues/69) |
+| [3.9](../../issues/66) | [3.10](../../issues/67) | [3.12](../../issues/70) |
+| [3.13](../../issues/71) | [3.20](../../issues/72) | [3.22](../../issues/73) |
+| [3.24](../../issues/74) | [3.26](../../issues/75) | |
+
 ### Capitolo 4
 
 #### Esercizi
