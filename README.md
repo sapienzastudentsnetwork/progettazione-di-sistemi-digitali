@@ -62,6 +62,16 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 #### Esercizi
 
+|    |    |    |
+|----|----|----|
+| [2.1](../../issues/28)  | [2.2](../../issues/29)  | [2.3](../../issues/30) |
+| [2.4](../../issues/31)  | [2.13](../../issues/37) | [2.14](../../issues/47) |
+| [2.17](../../issues/48) | [2.18](../../issues/49) | [2.23](../../issues/43) |
+| [2.26](../../issues/44) | [2.27](../../issues/45) | [2.28](../../issues/51) |
+| [2.29](../../issues/51) | [2.31](../../issues/52) | [2.32](../../issues/52) |
+| [2.38](../../issues/53) | [2.39](../../issues/55) | [2.40](../../issues/56) |
+| [2.41](../../issues/57) | [2.43](../../issues/58) | [2.44](../../issues/59) |
+
 ### Capitolo 3
 
 #### Esercizi
