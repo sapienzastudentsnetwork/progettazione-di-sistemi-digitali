@@ -27,6 +27,8 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 - **Libro:** Digital Design and Computer Architecture, $2^{nd}$ edition, 2012
 
+##### Capitoli da cui sono stati tratti
+
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [4](#capitolo-4) | [5](#capitolo-5) |
