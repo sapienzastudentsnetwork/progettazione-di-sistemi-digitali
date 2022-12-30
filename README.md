@@ -8,7 +8,7 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ### Collegamenti rapidi
 
-#### Filtri per lezione ("PSDx - Esercizi.pptx" / "PSDx.pptx)
+#### Filtri per lezione ("PSDx - Esercizi.pptx" / "PSDx.pptx")
 
 |    |    |    |    |
 |----|----|----|----|
