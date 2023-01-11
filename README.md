@@ -103,11 +103,15 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ### Esame B di Febbraio 2022 (A-L)
 
+#### Esercizi
+
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
 | [1](../../issues/101) | [2](../../issues/102) | [3](../../issues/103) | [4](../../issues/104) | [5](../../issues/105) | [6](../../issues/106) |
 
 ### Esame A di Febbraio 2022 (A-L)
+
+#### Esercizi
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
@@ -115,11 +119,15 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ### Esame B di Gennaio 2022 (A-Z)
 
+#### Esercizi
+
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
 | [1](../../issues/89) | [2](../../issues/90) | [3](../../issues/91) | [4](../../issues/92) | [5](../../issues/93) | [6](../../issues/94) |
 
 ### Esame A di Gennaio 2022 (A-Z)
+
+#### Esercizi
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
