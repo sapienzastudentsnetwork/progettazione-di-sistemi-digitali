@@ -8,6 +8,13 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 ### Collegamenti rapidi
 
+#### Prove passate
+
+- [Esame B di Febbraio 2022 (A-L)](#esame-b-di-febbraio-2022-a-l)
+- [Esame A di Febbraio 2022 (A-L)](#esame-a-di-febbraio-2022-a-l)
+- [Esame B di Gennaio 2022 (A-Z)](#esame-b-di-gennaio-2022-a-z)
+- [Esame A di Gennaio 2022 (A-Z)](#esame-a-di-gennaio-2022-a-z)
+
 #### Filtri per lezione ("PSDx - Esercizi.pptx" / "PSDx.pptx")
 
 |    |    |    |    |
@@ -91,3 +98,29 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [5.29](../../issues/20) | [5.31](../../issues/21) | [5.33](../../issues/22) | [5.35](../../issues/23) | [5.38](../../issues/24) |
+
+## Prove passate
+
+### Esame B di Febbraio 2022 (A-L)
+
+|    |    |    |    |    |    |
+|----|----|----|----|----|----|
+| [1](../../issues/101) | [2](../../issues/102) | [3](../../issues/103) | [4](../../issues/104) | [5](../../issues/105) | [6](../../issues/106) |
+
+### Esame A di Febbraio 2022 (A-L)
+
+|    |    |    |    |    |    |
+|----|----|----|----|----|----|
+| [1](../../issues/95) | [2](../../issues/96) | [3](../../issues/97) | [4](../../issues/98) | [5](../../issues/99) | [6](../../issues/100) |
+
+### Esame B di Gennaio 2022 (A-Z)
+
+|    |    |    |    |    |    |
+|----|----|----|----|----|----|
+| [1](../../issues/89) | [2](../../issues/90) | [3](../../issues/91) | [4](../../issues/92) | [5](../../issues/93) | [6](../../issues/94) |
+
+### Esame A di Gennaio 2022 (A-Z)
+
+|    |    |    |    |    |    |
+|----|----|----|----|----|----|
+| [1](../../issues/83) | [2](../../issues/84) | [3](../../issues/85) | [4](../../issues/86) | [5](../../issues/87) | [6](../../issues/88) |
