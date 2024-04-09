@@ -19,9 +19,9 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../issues?q=is%3Aissue+label%3Apsd1+sort%3Acreated-asc+) | [2](../../issues?q=is%3Aissue+label%3Apsd2+sort%3Acreated-asc+) | [3](../../issues?q=is%3Aissue+label%3Apsd3+sort%3Acreated-asc+) | [4](../../issues?q=is%3Aissue+label%3Apsd4+sort%3Acreated-asc+) | [5](../../issues?q=is%3Aissue+label%3Apsd5+sort%3Acreated-asc+) | [6](../../issues?q=is%3Aissue+label%3Apsd6+sort%3Acreated-asc+) |
-| [7](../../issues?q=is%3Aissue+label%3Apsd7+sort%3Acreated-asc+) | [8](../../issues?q=is%3Aissue+label%3Apsd8+sort%3Acreated-asc+) | [9](../../issues?q=is%3Aissue+label%3Apsd9+sort%3Acreated-asc+) | [10](../../issues?q=is%3Aissue+label%3Apsd10+sort%3Acreated-asc+) | [11](../../issues?q=is%3Aissue+label%3Apsd11+sort%3Acreated-asc+) | [12](../../issues?q=is%3Aissue+label%3Apsd12+sort%3Acreated-asc+) |
-| [13](../../issues?q=is%3Aissue+label%3Apsd13+sort%3Acreated-asc+) | [14](../../issues?q=is%3Aissue+label%3Apsd14+sort%3Acreated-asc+) | [16](../../issues?q=is%3Aissue+label%3Apsd16+sort%3Acreated-asc+) | [18](../../issues?q=is%3Aissue+label%3Apsd18+sort%3Acreated-asc+) | [19](../../issues?q=is%3Aissue+label%3Apsd19+sort%3Acreated-asc+) | |
+| [1](../../discussions?discussions_q=is%3Aopen+label%3Apsd1+sort%3Acreated-asc+) | [2](../../discussions?discussions_q=is%3Aopen+label%3Apsd2+sort%3Acreated-asc+) | [3](../../discussions?discussions_q=is%3Aopen+label%3Apsd3+sort%3Acreated-asc+) | [4](../../discussions?discussions_q=is%3Aopen+label%3Apsd4+sort%3Acreated-asc+) | [5](../../discussions?discussions_q=is%3Aopen+label%3Apsd5+sort%3Acreated-asc+) | [6](../../discussions?discussions_q=is%3Aopen+label%3Apsd6+sort%3Acreated-asc+) |
+| [7](../../discussions?discussions_q=is%3Aopen+label%3Apsd7+sort%3Acreated-asc+) | [8](../../discussions?discussions_q=is%3Aopen+label%3Apsd8+sort%3Acreated-asc+) | [9](../../discussions?discussions_q=is%3Aopen+label%3Apsd9+sort%3Acreated-asc+) | [10](../../discussions?discussions_q=is%3Aopen+label%3Apsd10+sort%3Acreated-asc+) | [11](../../discussions?discussions_q=is%3Aopen+label%3Apsd11+sort%3Acreated-asc+) | [12](../../discussions?discussions_q=is%3Aopen+label%3Apsd12+sort%3Acreated-asc+) |
+| [13](../../discussions?discussions_q=is%3Aopen+label%3Apsd13+sort%3Acreated-asc+) | [14](../../discussions?discussions_q=is%3Aopen+label%3Apsd14+sort%3Acreated-asc+) | [16](../../discussions?discussions_q=is%3Aopen+label%3Apsd16+sort%3Acreated-asc+) | [18](../../discussions?discussions_q=is%3Aopen+label%3Apsd18+sort%3Acreated-asc+) | [19](../../discussions?discussions_q=is%3Aopen+label%3Apsd19+sort%3Acreated-asc+) | |
 
 #### Esercizi che il prof ha tratto dal libro
 
@@ -34,10 +34,10 @@ _**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 | [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [5](#capitolo-5) |
 
 #### Filtri per stato
-- [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
-- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
-- [Esercizi con soluzioni confermate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Arisolto)
-- [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
+- [Esercizi da risolvere](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+label%3A"da+risolvere"+)
+- [Esercizi con soluzioni pubblicate](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
+- [Esercizi con soluzioni confermate](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+label%3Arisolto)
+- [Aggiornamenti (commenti / soluzioni) più recenti](../../discussions?q=sort%3Aupdated-desc+)
 
 ### Risorse utili
 
