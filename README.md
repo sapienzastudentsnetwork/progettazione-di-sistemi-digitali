@@ -57,12 +57,12 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |
 |----|----|----|
-| [1.11](../../issues/6) | [1.12](../../issues/7) | [1.14](../../issues/1) |
-| [1.16](../../issues/2) | [1.18](../../issues/3) | [1.21](../../issues/13) |
-| [1.22](../../issues/5) | [1.23](../../issues/14) | [1.29](../../issues/12) |
-| [1.43](../../issues/8) | [1.44](../../issues/9) | [1.45](../../issues/10) |
-| [1.46](../../issues/11) | [1.52](../../issues/16) | [1.53](../../issues/16) |
-| [1.59](../../issues/17) | [1.64](../../issues/18) | |
+| [1.11](../../discussions/116) | [1.12](../../discussions/117) | [1.14](../../discussions/111) |
+| [1.16](../../discussions/112) | [1.18](../../discussions/113) | [1.21](../../discussions/123) |
+| [1.22](../../discussions/115) | [1.23](../../discussions/124) | [1.29](../../discussions/122) |
+| [1.43](../../discussions/118) | [1.44](../../discussions/119) | [1.45](../../discussions/120) |
+| [1.46](../../discussions/121) | [1.52](../../discussions/126) | [1.53](../../discussions/126) |
+| [1.59](../../discussions/127) | [1.64](../../discussions/128) | |
 
 ### Capitolo 2
 
@@ -70,13 +70,13 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |
 |----|----|----|
-| [2.1](../../issues/28)  | [2.2](../../issues/29)  | [2.3](../../issues/30) |
-| [2.4](../../issues/31)  | [2.13](../../issues/37) | [2.14](../../issues/47) |
-| [2.17](../../issues/48) | [2.18](../../issues/49) | [2.23](../../issues/43) |
-| [2.26](../../issues/44) | [2.27](../../issues/45) | [2.28](../../issues/51) |
-| [2.29](../../issues/51) | [2.31](../../issues/52) | [2.32](../../issues/52) |
-| [2.38](../../issues/53) | [2.39](../../issues/55) | [2.40](../../issues/56) |
-| [2.41](../../issues/57) | [2.43](../../issues/58) | [2.44](../../issues/59) |
+| [2.1](../../discussions/138)  | [2.2](../../discussions/139)  | [2.3](../../discussions/140) |
+| [2.4](../../discussions/141)  | [2.13](../../discussions/147) | [2.14](../../discussions/157) |
+| [2.17](../../discussions/158) | [2.18](../../discussions/159) | [2.23](../../discussions/153) |
+| [2.26](../../discussions/154) | [2.27](../../discussions/155) | [2.28](../../discussions/161) |
+| [2.29](../../discussions/161) | [2.31](../../discussions/162) | [2.32](../../discussions/162) |
+| [2.38](../../discussions/163) | [2.39](../../discussions/165) | [2.40](../../discussions/166) |
+| [2.41](../../discussions/167) | [2.43](../../discussions/168) | [2.44](../../discussions/169) |
 
 ### Capitolo 3
 
@@ -84,11 +84,11 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |
 |----|----|----|
-| [3.1](../../issues/61) | [3.2](../../issues/62) | [3.3](../../issues/63) |
-| [3.4](../../issues/64) | [3.5](../../issues/68) | [3.6](../../issues/69) |
-| [3.9](../../issues/66) | [3.10](../../issues/67) | [3.12](../../issues/70) |
-| [3.13](../../issues/71) | [3.20](../../issues/72) | [3.22](../../issues/73) |
-| [3.24](../../issues/74) | [3.26](../../issues/75) | |
+| [3.1](../../discussions/171) | [3.2](../../discussions/172) | [3.3](../../discussions/173) |
+| [3.4](../../discussions/174) | [3.5](../../discussions/178) | [3.6](../../discussions/179) |
+| [3.9](../../discussions/176) | [3.10](../../discussions/177) | [3.12](../../discussions/180) |
+| [3.13](../../discussions/181) | [3.20](../../discussions/182) | [3.22](../../discussions/183) |
+| [3.24](../../discussions/184) | [3.26](../../discussions/185) | |
 
 ### Capitolo 5
 
@@ -96,7 +96,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [5.29](../../issues/20) | [5.31](../../issues/21) | [5.33](../../issues/22) | [5.35](../../issues/23) | [5.38](../../issues/24) |
+| [5.29](../../discussions/130) | [5.31](../../discussions/131) | [5.33](../../discussions/132) | [5.35](../../discussions/133) | [5.38](../../discussions/134) |
 
 ## Prove passate
 
@@ -106,7 +106,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../issues/101) | [2](../../issues/102) | [3](../../issues/103) | [4](../../issues/104) | [5](../../issues/105) | [6](../../issues/106) |
+| [1](../../discussions/211) | [2](../../discussions/212) | [3](../../discussions/213) | [4](../../discussions/214) | [5](../../discussions/215) | [6](../../discussions/216) |
 
 ### Esame A di Febbraio 2022 (A-L)
 
@@ -114,7 +114,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../issues/95) | [2](../../issues/96) | [3](../../issues/97) | [4](../../issues/98) | [5](../../issues/99) | [6](../../issues/100) |
+| [1](../../discussions/205) | [2](../../discussions/206) | [3](../../discussions/207) | [4](../../discussions/208) | [5](../../discussions/209) | [6](../../discussions/210) |
 
 ### Esame B di Gennaio 2022 (A-Z)
 
@@ -122,7 +122,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../issues/89) | [2](../../issues/90) | [3](../../issues/91) | [4](../../issues/92) | [5](../../issues/93) | [6](../../issues/94) |
+| [1](../../discussions/199) | [2](../../discussions/200) | [3](../../discussions/201) | [4](../../discussions/202) | [5](../../discussions/203) | [6](../../discussions/204) |
 
 ### Esame A di Gennaio 2022 (A-Z)
 
@@ -130,4 +130,4 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../issues/83) | [2](../../issues/84) | [3](../../issues/85) | [4](../../issues/86) | [5](../../issues/87) | [6](../../issues/88) |
+| [1](../../discussions/193) | [2](../../discussions/194) | [3](../../discussions/195) | [4](../../discussions/196) | [5](../../discussions/197) | [6](../../discussions/198) |
