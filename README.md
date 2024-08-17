@@ -21,13 +21,13 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 ### Filtri per Traccia di Esame
 
-- [16 gennaio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2024")
-- [8 febbraio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2023")
-- [18 gennaio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"18+gennaio+2023")
-- [1 febbraio 2022 (A-L) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+B%22)
-- [1 febbraio 2022 (A-L) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+A%22)
-- [11 gennaio 2022 (A-Z) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+A%22)
-- [11 gennaio 2022 (A-Z) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+B%22)
+- [16 gennaio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2024"+sort%3Adate_created+)
+- [8 febbraio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2023"+sort%3Adate_created+)
+- [18 gennaio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"18+gennaio+2023"+sort%3Adate_created+)
+- [1 febbraio 2022 (A-L) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+B%22+sort%3Adate_created+)
+- [1 febbraio 2022 (A-L) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+A%22+sort%3Adate_created+)
+- [11 gennaio 2022 (A-Z) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+B%22+sort%3Adate_created+)
+- [11 gennaio 2022 (A-Z) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+A%22+sort%3Adate_created+)
 
 ## 🗃 Risorse utili
 
