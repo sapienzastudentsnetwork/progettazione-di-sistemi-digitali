@@ -23,7 +23,9 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 - [Esercizi d'esame](../../discussions?discussions_q=is%3Aopen+label%3Aesame)
 - [Esercizi per casa](../../discussions?discussions_q=is%3Aopen+-label%3Aesame)
-  - [Esercizi tratti dal libro](../../discussions?discussions_q=is%3Aopen+label%3Adigital-design-and-computer-architecture)
+  - [A/L, Prof. Pontarelli](../../discussions/categories/esercizi-a-l)
+  - [M/Z, Prof.ssa Massini](../../discussions/categories/esercizi-m-z)
+  - [Esercizi tratti dal libro](../../discussions?discussions_q=is%3Aopen+label%3A"Digital+Design+and+Computer+Architecture")
 
 ### Filtri per Traccia di Esame
 
