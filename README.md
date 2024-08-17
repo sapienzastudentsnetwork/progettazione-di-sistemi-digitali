@@ -1,59 +1,57 @@
-# [A/L] Sistemi Digitali [A.A. 2022-2023]
+# Progettazione di Sistemi Digitali
 
-## Introduzione
+## 👋 Introduzione al forum
 
-Lo scopo di questo repository GitHub, _basato sulla stessa idea ed organizzazione del repository di Metodi Matematici durante l'A.A. 2021-2022_ [[🌐]](https://github.com/sapienzastudentsnetwork/mmi2122), è di condividere e confrontare tra di noi le soluzioni alle slides di esercizi di Progettazione di Sistemi Digitali del prof. Salvatore Pontarelli pubblicate durante l'Anno Accademico 2022-2023. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Progettazione di Sistemi Digitali assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
 
-_**N.B:** Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe dal professore o su GitHub da più di un utente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricodati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente sono i benvenuti!_
+💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
-### Collegamenti rapidi
+## 🗂 Indice
 
-#### Prove passate
+- [Collegamenti rapidi](#-collegamenti-rapidi)
+- [Risorse utili](#-risorse-utili)
+- [Esercizi tratti dal libro](#-esercizi-tratti-dal-libro)
+- [Set di Esercizi (Pontarelli, A.A. 2021-22)](#-set-di-esercizi-pontarelli-aa-2021-22)
 
-- [Esame B di Febbraio 2022 (A-L)](#esame-b-di-febbraio-2022-a-l)
-- [Esame A di Febbraio 2022 (A-L)](#esame-a-di-febbraio-2022-a-l)
-- [Esame B di Gennaio 2022 (A-Z)](#esame-b-di-gennaio-2022-a-z)
-- [Esame A di Gennaio 2022 (A-Z)](#esame-a-di-gennaio-2022-a-z)
+## ⚠️ Attenzione
 
-#### Filtri per lezione ("PSDx - Esercizi.pptx" / "PSDx.pptx")
+Questo repository di scambio e confronto di soluzioni agli esercizi di Progettazione di Sistemi Digitali è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
 
-|    |    |    |    |    |    |
-|----|----|----|----|----|----|
-| [1](../../discussions?discussions_q=is%3Aopen+label%3Apsd1+sort%3Acreated-asc+) | [2](../../discussions?discussions_q=is%3Aopen+label%3Apsd2+sort%3Acreated-asc+) | [3](../../discussions?discussions_q=is%3Aopen+label%3Apsd3+sort%3Acreated-asc+) | [4](../../discussions?discussions_q=is%3Aopen+label%3Apsd4+sort%3Acreated-asc+) | [5](../../discussions?discussions_q=is%3Aopen+label%3Apsd5+sort%3Acreated-asc+) | [6](../../discussions?discussions_q=is%3Aopen+label%3Apsd6+sort%3Acreated-asc+) |
-| [7](../../discussions?discussions_q=is%3Aopen+label%3Apsd7+sort%3Acreated-asc+) | [8](../../discussions?discussions_q=is%3Aopen+label%3Apsd8+sort%3Acreated-asc+) | [9](../../discussions?discussions_q=is%3Aopen+label%3Apsd9+sort%3Acreated-asc+) | [10](../../discussions?discussions_q=is%3Aopen+label%3Apsd10+sort%3Acreated-asc+) | [11](../../discussions?discussions_q=is%3Aopen+label%3Apsd11+sort%3Acreated-asc+) | [12](../../discussions?discussions_q=is%3Aopen+label%3Apsd12+sort%3Acreated-asc+) |
-| [13](../../discussions?discussions_q=is%3Aopen+label%3Apsd13+sort%3Acreated-asc+) | [14](../../discussions?discussions_q=is%3Aopen+label%3Apsd14+sort%3Acreated-asc+) | [16](../../discussions?discussions_q=is%3Aopen+label%3Apsd16+sort%3Acreated-asc+) | [18](../../discussions?discussions_q=is%3Aopen+label%3Apsd18+sort%3Acreated-asc+) | [19](../../discussions?discussions_q=is%3Aopen+label%3Apsd19+sort%3Acreated-asc+) | |
+## 🔗 Collegamenti rapidi
 
-#### Esercizi che il prof ha tratto dal libro
+### Filtri per Traccia di Esame
 
-- **Libro:** Digital Design and Computer Architecture, $2^{nd}$ edition, 2012
+- [16 gennaio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2024")
+- [8 febbraio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2023")
+- [18 gennaio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"18+gennaio+2023")
+- [1 febbraio 2022 (A-L) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+B%22)
+- [1 febbraio 2022 (A-L) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+A%22)
+- [11 gennaio 2022 (A-Z) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+A%22)
+- [11 gennaio 2022 (A-Z) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+B%22)
 
-##### Capitoli da cui sono stati tratti
+## 🗃 Risorse utili
+
+### 1️⃣ Canale A/L (Prof. Pontarelli)
+
+- [**Classroom**](https://classroom.google.com/c/MTczNjk2NDI1MjI5?cjc=blb53dw) » contiene eventuali annunci del prof. Salvatore Pontarelli inerenti al corso
+
+- [**Cartella Drive**](https://drive.google.com/drive/folders/1yrcePCVNrA-kGAHzX5JdqRXziNENfjt4UW_YhLIxZPPUFavHArMU1fnTGKoX1CRnKPKh-xg2?usp=sharing) » contiene il materiale didattico (esami svolti, esercitazioni, slides, tutoraggio e verilog) del corso, comprese le presentazioni PowerPoint e i file PDF contenenti i testi degli esercizi presenti in questo repository
+
+### 2️⃣ Canale M/Z (Prof.ssa Massini)
+
+- [**Pagina Twiki**](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O) » contiene il materiale e le informazioni generali sul corso
+
+## 📖 Esercizi tratti dal libro
+
+**Libro:** Digital Design and Computer Architecture, $2^{nd}$ edition, 2012
+
+### Indice dei capitoli
 
 |    |    |    |    |
 |----|----|----|----|
 | [1](#capitolo-1) | [2](#capitolo-2) | [3](#capitolo-3) | [5](#capitolo-5) |
 
-#### Filtri per stato
-- [Esercizi da risolvere](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+label%3A"da+risolvere"+)
-- [Esercizi con soluzioni pubblicate](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
-- [Esercizi con soluzioni confermate](../../discussions?discussions_q=is%3Aopen+sort%3Aupdated-desc+label%3Arisolto)
-- [Aggiornamenti (commenti / soluzioni) più recenti](../../discussions?q=sort%3Aupdated-desc+)
-
-### Risorse utili
-
-- **Classroom del corso** [[🌐]](https://classroom.google.com/c/MTczNjk2NDI1MjI5?cjc=blb53dw) » contiene eventuali annunci del prof. Salvatore Pontarelli inerenti al corso
-
-- **Cartella Drive del corso** [[🌐]](https://drive.google.com/drive/folders/1yrcePCVNrA-kGAHzX5JdqRXziNENfjt4UW_YhLIxZPPUFavHArMU1fnTGKoX1CRnKPKh-xg2?usp=sharing) » contiene il materiale didattico (esami svolti, esercitazioni, slides e tutoraggio) del corso, comprese le presentazioni PowerPoint contenenti i testi degli esercizi presenti in questo repository
-
-### Attenzione
-
-Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
-
-## Esercizi tratti dal libro
-
 ### Capitolo 1
-
-#### Esercizi
 
 |    |    |    |
 |----|----|----|
@@ -65,8 +63,6 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [1.59](../../discussions/127) | [1.64](../../discussions/128) | |
 
 ### Capitolo 2
-
-#### Esercizi
 
 |    |    |    |
 |----|----|----|
@@ -80,8 +76,6 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ### Capitolo 3
 
-#### Esercizi
-
 |    |    |    |
 |----|----|----|
 | [3.1](../../discussions/171) | [3.2](../../discussions/172) | [3.3](../../discussions/173) |
@@ -92,42 +86,14 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ### Capitolo 5
 
-#### Esercizi
-
 |    |    |    |    |    |
 |----|----|----|----|----|
 | [5.29](../../discussions/130) | [5.31](../../discussions/131) | [5.33](../../discussions/132) | [5.35](../../discussions/133) | [5.38](../../discussions/134) |
 
-## Prove passate
-
-### Esame B di Febbraio 2022 (A-L)
-
-#### Esercizi
+## 📝 Set di Esercizi (Pontarelli, A.A. 2021-22)
 
 |    |    |    |    |    |    |
 |----|----|----|----|----|----|
-| [1](../../discussions/211) | [2](../../discussions/212) | [3](../../discussions/213) | [4](../../discussions/214) | [5](../../discussions/215) | [6](../../discussions/216) |
-
-### Esame A di Febbraio 2022 (A-L)
-
-#### Esercizi
-
-|    |    |    |    |    |    |
-|----|----|----|----|----|----|
-| [1](../../discussions/205) | [2](../../discussions/206) | [3](../../discussions/207) | [4](../../discussions/208) | [5](../../discussions/209) | [6](../../discussions/210) |
-
-### Esame B di Gennaio 2022 (A-Z)
-
-#### Esercizi
-
-|    |    |    |    |    |    |
-|----|----|----|----|----|----|
-| [1](../../discussions/199) | [2](../../discussions/200) | [3](../../discussions/201) | [4](../../discussions/202) | [5](../../discussions/203) | [6](../../discussions/204) |
-
-### Esame A di Gennaio 2022 (A-Z)
-
-#### Esercizi
-
-|    |    |    |    |    |    |
-|----|----|----|----|----|----|
-| [1](../../discussions/193) | [2](../../discussions/194) | [3](../../discussions/195) | [4](../../discussions/196) | [5](../../discussions/197) | [6](../../discussions/198) |
+| [1](../../discussions?discussions_q=is%3Aopen+label%3Apsd1+sort%3Acreated-asc+) | [2](../../discussions?discussions_q=is%3Aopen+label%3Apsd2+sort%3Acreated-asc+) | [3](../../discussions?discussions_q=is%3Aopen+label%3Apsd3+sort%3Acreated-asc+) | [4](../../discussions?discussions_q=is%3Aopen+label%3Apsd4+sort%3Acreated-asc+) | [5](../../discussions?discussions_q=is%3Aopen+label%3Apsd5+sort%3Acreated-asc+) | [6](../../discussions?discussions_q=is%3Aopen+label%3Apsd6+sort%3Acreated-asc+) |
+| [7](../../discussions?discussions_q=is%3Aopen+label%3Apsd7+sort%3Acreated-asc+) | [8](../../discussions?discussions_q=is%3Aopen+label%3Apsd8+sort%3Acreated-asc+) | [9](../../discussions?discussions_q=is%3Aopen+label%3Apsd9+sort%3Acreated-asc+) | [10](../../discussions?discussions_q=is%3Aopen+label%3Apsd10+sort%3Acreated-asc+) | [11](../../discussions?discussions_q=is%3Aopen+label%3Apsd11+sort%3Acreated-asc+) | [12](../../discussions?discussions_q=is%3Aopen+label%3Apsd12+sort%3Acreated-asc+) |
+| [13](../../discussions?discussions_q=is%3Aopen+label%3Apsd13+sort%3Acreated-asc+) | [14](../../discussions?discussions_q=is%3Aopen+label%3Apsd14+sort%3Acreated-asc+) | [16](../../discussions?discussions_q=is%3Aopen+label%3Apsd16+sort%3Acreated-asc+) | [18](../../discussions?discussions_q=is%3Aopen+label%3Apsd18+sort%3Acreated-asc+) | [19](../../discussions?discussions_q=is%3Aopen+label%3Apsd19+sort%3Acreated-asc+) | |
