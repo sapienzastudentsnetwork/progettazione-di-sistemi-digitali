@@ -23,19 +23,23 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 - [Esercizi d'esame](../../discussions?discussions_q=is%3Aopen+label%3Aesame)
 - [Esercizi per casa](../../discussions?discussions_q=is%3Aopen+-label%3Aesame)
-  - [A/L, Prof. Pontarelli](../../discussions/categories/esercizi-a-l)
-  - [M/Z, Prof.ssa Massini](../../discussions/categories/esercizi-m-z)
+  - [Canale A/L, Prof. Pontarelli](../../discussions/categories/esercizi-a-l)
+  - [Canale M/Z, Prof.ssa Massini](../../discussions/categories/esercizi-m-z)
   - [Esercizi tratti dal libro](../../discussions?discussions_q=is%3Aopen+label%3A"Digital+Design+and+Computer+Architecture")
 
 ### Filtri per Traccia di Esame
 
 - [16 gennaio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2024"+sort%3Adate_created+)
+- [14 settembre 2023](../../discussions?discussions_q=is%3Aopen+label%3A"14+settembre+2023"+sort%3Adate_created+)
+- [27 giugno 2023](../../discussions?discussions_q=is%3Aopen+label%3A"27+giugno+2023"+sort%3Adate_created+)
+- [5 giugno 2023](../../discussions?discussions_q=is%3Aopen+label%3A"5+giugno+2023"+sort%3Adate_created+)
+- [29 marzo 2023 (A-L)](../../discussions?discussions_q=is%3Aopen+label%3A"29+marzo+2023"+sort%3Adate_created+)
 - [8 febbraio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2023"+sort%3Adate_created+)
 - [18 gennaio 2023](../../discussions?discussions_q=is%3Aopen+label%3A"18+gennaio+2023"+sort%3Adate_created+)
 - [1 febbraio 2022 (A-L) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+B%22+sort%3Adate_created+)
 - [1 febbraio 2022 (A-L) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%221+febbraio+2022+-+A%22+sort%3Adate_created+)
-- [11 gennaio 2022 (A-Z) - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+B%22+sort%3Adate_created+)
-- [11 gennaio 2022 (A-Z) - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+A%22+sort%3Adate_created+)
+- [11 gennaio 2022 - Fila B](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+B%22+sort%3Adate_created+)
+- [11 gennaio 2022 - Fila A](../../discussions?discussions_q=is%3Aopen+label%3A%2211+gennaio+2022+-+A%22+sort%3Adate_created+)
 
 ## 🗃 Risorse utili
 
