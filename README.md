@@ -23,8 +23,8 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 - [Esercizi d'esame](../../discussions?discussions_q=is%3Aopen+label%3Aesame)
 - [Esercizi per casa](../../discussions?discussions_q=is%3Aopen+-label%3Aesame)
-  - [Canale A/L, Prof. Pontarelli](../../discussions/categories/esercizi-a-l)
-  - [Canale M/Z, Prof.ssa Massini](../../discussions/categories/esercizi-m-z)
+  - [Canale A-L (Prof. Pontarelli)](../../discussions/categories/esercizi-a-l)
+  - [Canale M-Z (Prof.ssa Massini)](../../discussions/categories/esercizi-m-z)
   - [Esercizi tratti dal libro](../../discussions?discussions_q=is%3Aopen+label%3A"Digital+Design+and+Computer+Architecture")
 
 ### Filtri per Traccia di Esame
@@ -43,13 +43,13 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 ## 🗃 Risorse utili
 
-### 1️⃣ Canale A/L (Prof. Pontarelli)
+### 1️⃣ Canale A-L (Prof. Pontarelli)
 
 - [**Classroom**](https://classroom.google.com/c/MTczNjk2NDI1MjI5?cjc=blb53dw) » contiene eventuali annunci del prof. Salvatore Pontarelli inerenti al corso
 
 - [**Cartella Drive**](https://drive.google.com/drive/folders/1yrcePCVNrA-kGAHzX5JdqRXziNENfjt4UW_YhLIxZPPUFavHArMU1fnTGKoX1CRnKPKh-xg2?usp=sharing) » contiene il materiale didattico (esami svolti, esercitazioni, slides, tutoraggio e verilog) del corso, comprese le presentazioni PowerPoint e i file PDF contenenti i testi degli esercizi presenti in questo repository
 
-### 2️⃣ Canale M/Z (Prof.ssa Massini)
+### 2️⃣ Canale M-Z (Prof.ssa Massini)
 
 - [**Pagina Twiki**](https://twiki.di.uniroma1.it/twiki/view/Architetture1/EO/CanaleE_O) » contiene il materiale e le informazioni generali sul corso
 
