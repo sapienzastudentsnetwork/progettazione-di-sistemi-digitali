@@ -29,6 +29,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Progettaz
 
 ### Filtri per Traccia di Esame
 
+- [12 settembre 2024 (A-L)](../../discussions?discussions_q=is%3Aopen+label%3A"12+settembre+2024"+sort%3Adate_created+)
 - [1 febbraio 2024 (M-Z)](../../discussions?discussions_q=is%3Aopen+label%3A"1+febbraio+2024"+sort%3Adate_created+)
 - [16 gennaio 2024](../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2024"+sort%3Adate_created+)
 - [14 settembre 2023](../../discussions?discussions_q=is%3Aopen+label%3A"14+settembre+2023"+sort%3Adate_created+)
